@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-service" />
+        <module name="config-server" />
+        <module name="demand-service" />
+        <module name="category-service" />
+        <module name="gateway-service" />
+        <module name="email-service" />
+        <module name="company" />
+        <module name="company-service" />
+        <module name="info-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="category-service" target="11" />
+      <module name="company" target="11" />
+      <module name="company-service" target="11" />
+      <module name="config-server" target="11" />
+      <module name="demand-service" target="11" />
+      <module name="email-service" target="11" />
+      <module name="eureka-service" target="11" />
+      <module name="gateway-service" target="11" />
+      <module name="info-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="category-service" options="-parameters" />
+      <module name="company" options="-parameters" />
+      <module name="company-service" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="demand-service" options="-parameters" />
+      <module name="email-service" options="-parameters" />
+      <module name="eureka-service" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="info-service" options="-parameters" />
+    </option>
+  </component>
+</project>

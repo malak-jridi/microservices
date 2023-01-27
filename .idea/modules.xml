@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Farha.iml" filepath="$PROJECT_DIR$/.idea/Farha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/category-service/category-service.iml" filepath="$PROJECT_DIR$/category-service/category-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company/company.iml" filepath="$PROJECT_DIR$/company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-service/company-service.iml" filepath="$PROJECT_DIR$/company-service/company-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demand-service/demand-service.iml" filepath="$PROJECT_DIR$/demand-service/demand-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-service/email-service.iml" filepath="$PROJECT_DIR$/email-service/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/info-service/info-service.iml" filepath="$PROJECT_DIR$/info-service/info-service.iml" />
+    </modules>
+  </component>
+</project>
